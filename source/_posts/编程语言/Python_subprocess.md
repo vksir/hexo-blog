@@ -406,6 +406,6 @@ with open(proc.stdout.fileno(), 'r') as fd:
 >
 > 参考文档：
 >
-> [1]：https://docs.python.org/zh-cn/3/library/subprocess.html?highlight=subprocess#popen-objects
+> [1] https://docs.python.org/zh-cn/3/library/subprocess.html?highlight=subprocess#popen-objects
 >
-> [2]：https://www.orcode.com/question/55018_k2a152.html
+> [2] https://www.orcode.com/question/55018_k2a152.html
