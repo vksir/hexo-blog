@@ -102,4 +102,5 @@ theme: hexo-theme-next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+    type: "git"
+    repo: git@120.55.68.91:/home/git/hexo_html.git
