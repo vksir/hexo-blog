@@ -75,6 +75,6 @@ date: 2020-03-09 22:44:54
 >
 > 网站地址：<u>https://www.vksir.zone</u>
 >
-> 网站描述：
+> 网站描述：行你所想
 >
 > 网站 Logo：<u>https://gallery.vksir.zone/images/2020/03/12/vksir.jpg</u>
