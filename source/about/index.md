@@ -1,80 +1,50 @@
 ---
-title: 友链
+title: 关于本站
 comments: true
-date: 2020-03-09 22:44:54
+date: 2020-03-05 13:33:34
+type: "about"
+toc:
+	enable: false
 ---
 
-<html>
-	<head>
-		<style>
-			.card {
-                display:inline-block;
-				width: 115px;
-				box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.12);
-				overflow: hidden;
-				transition: 0.15s ease-in-out;
-				border-radius: 8px;
-				margin: 0 5px;
-				text-align: center;
-				text-decoration: none;
-				line-height: 65px;
-                color: #00b6ec;
-                border-bottom:none;
-			}
-            .card:hover {
-                transform: scale(1.07);
-                color: #00b6ec;
-            }
-			.avatar {
-				width: 100%;
-				height: 115px;
-                background-size: cover !important;
-			}
-		</style>
-	</head>
-	<body>
-		<a class="card" href="https://blog.dlzhang.com/" target="_blank">
-			<div
-				class="avatar"
-				style="background: url(https://d33wubrfki0l68.cloudfront.net/c58bf3d03a0a2b85df29bddfe5aed00859ab56af/5a667/images/blog-avatar.jpg);"
-			></div>
-			<span>班班碎碎念</span>
-		</a>
-		<a class="card" href="https://www.wenjinyu.me/" target="_blank">
-			<div
-				class="avatar"
-				style="background: url(https://i.loli.net/2019/05/04/5ccd2f658815a.png);"
-			></div>
-			<span>温锦瑜的博客</span>
-		</a>
-		<a class="card" href="https://blog.fedfans.com/" target="_blank">
-			<div
-				class="avatar"
-				style="background: url(https://avatars.githubusercontent.com/u/6525544?s=80&v=4);"
-			></div>
-			<span>金炳的博客</span>
-		</a>
-	</body>
-</html>
 
+
+这里是——**白玉楼の小窝**（一定要这么叫！才显得温馨）。
+
+我是 Vksir，还是白玉楼？哈哈，还没想好呢。母校武大 WHU，学X一枚。
+
+> 讲道理，樱花并不好看，人真的太多。再好的意境，人山人海就没得看头了。要看也定要早些时日去看早樱，那时候还没什么人。
+>
+> 当天一定要起风。这很关键。
+
+内容一定不能「精益求精」！要是百十天个把月、半年？才写一篇文章，那可就太难咯。我就随便写写好啦！
+
+什么都写，想写什么写什么！
+
+嗯，希望能坚持下去。
+
+### 站名典故
+
+***“人间白玉楼”***
+
+> 白玉楼，典故名，典出《全唐文》卷七百八十〈李商隐十·李贺小传〉。传说唐诗人李贺昼见绯衣人，云“帝成白玉楼，立召君为记。天上差乐，不苦也”，遂卒。
+
+啊，我取这个名嘛，当然不是指「文人早逝」嘛。
+
+「白玉为楼，立于人间」
+
+——断章取义！这便是它的意思，换句话讲就是「世外桃源」，哈哈。
+
+### 著作权声明
+
+本站所有作品（包括但不限于文章、照片）除特别声明外，均采用 [<i class="fa fa-fw fa-creative-commons"></i> BY-NC-SA 4.0 许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)。如需商业性使用，请先通过以下联系方式与我取得联络，获得书面许可。
+
+### 关于我
+
+<i class="fa fa-fw fa-envelope"></i> [v.kzhang@qq.com](mailto:vksir@qq.com)
+
+<i class="fa fa-fw fa-github"></i> [GitHub](https://www.github.com/vksir)
+
+<img style="border-radius:50%;height:130px;margin:30px auto 0" alt="Vksir" src="https://gallery.vksir.zone/images/2020/03/03/-.md.jpg">
 
 ---
-
-<div style="text-align:center;">
-    <i class="fa fa-heart" style="color:red;"></i>
-        点击发现新世界 (〃'▽'〃) 留言言添加友链
-    <i class="fa fa-heart" style="color:red;"></i>
-</div>
-
-
----
-
-> **友链格式**
->
-> 网站名称：人间白玉楼
->
-> 网站地址：<u>https://www.vksir.zone</u>
->
-> 网站描述：
->
-> 网站 Logo：<u>https://gallery.vksir.zone/images/2020/03/12/vksir.jpg</u>
